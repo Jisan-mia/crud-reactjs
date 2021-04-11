@@ -1,0 +1,10 @@
+A/C transaction
+
+Wihout redux-
+============
+
+components
+    -transactionList
+    |
+    |                       localStorage as DB
+    +--- transactionForm
